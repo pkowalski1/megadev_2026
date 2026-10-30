@@ -4,13 +4,13 @@ title: 'What #4471 actually holds'
 owner: Pawel Kowalski
 status: open
 reviewed: 2026-10-30
-signature: Pawel Kowalski
+signature: "v1.eyJzdWIiOiI1MjkxIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTMzNzcwMTQsImV4cCI6MTc5MzQ2MzQxNH0.JLyv0w3DKs9FRCF56IVC4fId3W-9PlGBInz-ssMmoMw"
 ---
 
 <script>
   import CauseTable from '#lib/kb/CauseTable.svelte';
   import RenderStamp from '#lib/kb/RenderStamp.svelte';
-  const signature = 'Pawel Kowalski';
+  const signature = "v1.eyJzdWIiOiI1MjkxIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTMzNzcwMTQsImV4cCI6MTc5MzQ2MzQxNH0.JLyv0w3DKs9FRCF56IVC4fId3W-9PlGBInz-ssMmoMw";
 </script>
 
 #4471 was merged as one known issue, with one fix queued. The table is the split the desk's own cause rule makes. A row marked as not this ticket has no ticket of its own. The note under the table is a reading that is not the cause it was filed under.
