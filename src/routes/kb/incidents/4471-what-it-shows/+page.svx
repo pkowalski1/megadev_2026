@@ -17,6 +17,6 @@ signature: "v1.eyJzdWIiOiI1MjkxIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpY
 
 <CauseTable ticket={4471} />
 
-The public repo has one ticket for the parser reading, one for the hint reading, and one for the one-day move named in the desk notes. A report is on one ticket. The table still counts the one-day move inside the parser row, which is where those reports were filed.
+The public repo has one ticket for the parser reading and one for the hint reading. The note under the table stays on the parser ticket, because that is where those reports were filed.
 
 <RenderStamp {signature} />
