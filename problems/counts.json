@@ -1,0 +1,35 @@
+{
+  "unique": 412,
+  "raw": 427,
+  "parser": 374,
+  "hint": 33,
+  "oneDay": 5,
+  "sum": 412,
+  "table": [
+    {
+      "cause": "parser",
+      "n": 379,
+      "tagStr": "parser ×356 · hint ×23",
+      "tenantsN": 11,
+      "first": "2026-04-01",
+      "last": "2026-10-04"
+    },
+    {
+      "cause": "hint",
+      "n": 33,
+      "tagStr": "hint ×18 · parser ×15",
+      "tenantsN": 3,
+      "first": "2026-04-17",
+      "last": "2026-09-22"
+    }
+  ],
+  "movedInParser": 5,
+  "ref": "DR-MY9V-14AN",
+  "oneIds": [
+    "R-41202",
+    "R-41209",
+    "R-41236",
+    "R-41344",
+    "R-41620"
+  ]
+}
